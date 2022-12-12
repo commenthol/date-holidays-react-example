@@ -1,4 +1,4 @@
-# react-date-holidays-example 
+# date-holidays-react-example
 
 A sample react app for running date-holidays in the browser.
 
@@ -13,4 +13,3 @@ npm start
 ## License
 
 [Unlicense](https://unlicense.org/)
-
